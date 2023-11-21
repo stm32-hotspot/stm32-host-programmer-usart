@@ -1,0 +1,11 @@
+../Core/Src/bootloader.c:13:13:stm32_reset_target	1
+../Core/Src/bootloader.c:35:13:stm32_enter_boot_mode	1
+../Core/Src/bootloader.c:73:13:stm32_init	39
+../Core/Src/bootloader.c:286:13:stm32_guess_len_cmd	4
+../Core/Src/bootloader.c:325:13:stm32_get_ack_timeout	4
+../Core/Src/bootloader.c:364:13:stm32_send_command_timeout	3
+../Core/Src/bootloader.c:413:13:stm32_read_memory	8
+../Core/Src/bootloader.c:475:13:stm32_write_memory	12
+../Core/Src/bootloader.c:574:13:stm32_send_init_seq	3
+../Core/Src/bootloader.c:616:13:stm32_erase_memory	17
+../Core/Src/bootloader.c:769:13:stm32_go	4
