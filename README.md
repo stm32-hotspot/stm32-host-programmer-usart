@@ -16,7 +16,7 @@ This directory contains a set of sources files and pre-configured projects that
 describes how to create the stm32 host to program other stm32s using USART interface following the AN3155 protocol.
 
 ## Details
-Please refer to the Knowledge Base Article for a full code explanation and implementation.
+Please refer to the Knowledge Base Article for a full code explanation and implementation: https://community.st.com/t5/stm32-mcus/how-to-program-a-stm32-with-another-stm32-using-the-native/ta-p/612362
 
 **Caution** : Issues and the pull-requests are **not supported** to submit problems or suggestions related to the software delivered in this repository. The stm32 host programmer example is being delivered as-is, and not necessarily supported by ST.
 
